@@ -1,0 +1,5 @@
+com\walmart\controller\WalmartController.class
+com\walmart\helper\WalmartHelper.class
+com\walmart\service\impl\WalmartServiceImpl.class
+com\walmart\conf\WalmartApplication.class
+com\walmart\service\WalmartService.class
